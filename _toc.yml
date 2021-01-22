@@ -1,0 +1,23 @@
+- file: overview
+  numbered: true
+
+- part: Background
+  numbered: true
+  chapters:
+  - file: 00_Background/python_overview
+    sections:
+    - file: 00_Background/basics
+    - file: 00_Background/numpy
+    - file: 00_Background/plotting
+    - file: 00_Background/playground0
+    - file: 00_Background/homework0
+
+
+- part: Introduction and Overview
+  numbered: true
+  chapters:
+    - file: 10_Overview/chheader_introduction
+      sections:
+      - file: 10_Overview/chap1_overview
+      - file: 10_Overview/chap1_examples
+

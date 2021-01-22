@@ -1,0 +1,10 @@
+jupyter-book>=0.7
+matplotlib
+numpy
+scipy
+seaborn
+scikit-learn
+statsmodels
+skimage
+
+
