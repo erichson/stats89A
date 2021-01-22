@@ -5,6 +5,6 @@ scipy
 seaborn
 scikit-learn
 statsmodels
-skimage
+scikit-image
 
 
