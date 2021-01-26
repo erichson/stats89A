@@ -20,4 +20,8 @@
       sections:
       - file: 10_Overview/chap1_overview
       - file: 10_Overview/chap1_examples
-
+    - file: 10_Overview/chheader_algebras
+      sections:
+      - file: 10_Overview/chap2_sets
+      - file: 10_Overview/chap2_basic-table-operations
+      - file: 10_Overview/hw01
