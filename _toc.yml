@@ -27,3 +27,7 @@
       - file: 10_Overview/hw01
       - file: 10_Overview/chap2_functions-and-compositions
       - file: 10_Overview/hw02      
+      - file: 10_Overview/chap2_injective-functions-and-left-inverses
+      - file: 10_Overview/chap2_surjective-functions-and-right-inverses
+      - file: 10_Overview/chap2_generalized-inverses
+      - file: 10_Overview/hw03      
