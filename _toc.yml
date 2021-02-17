@@ -31,3 +31,11 @@
       - file: 10_Overview/chap2_surjective-functions-and-right-inverses
       - file: 10_Overview/chap2_generalized-inverses
       - file: 10_Overview/hw03      
+      
+- part: Basic Linear Algebra
+  chapters:
+  - file: 20_BasicLA/chheader_BasicLA1
+    sections:
+    - file: 20_BasicLA/chap3_introduction-to-norms
+    - file: 20_BasicLA/chap3_lp-balls
+    - file: 20_BasicLA/hw04      
