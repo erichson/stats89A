@@ -37,5 +37,10 @@
   - file: 20_BasicLA/chheader_BasicLA1
     sections:
     - file: 20_BasicLA/chap3_introduction-to-norms
-    - file: 20_BasicLA/chap3_lp-balls
+    - file: 20_BasicLA/basicLA_1B_lp-balls
     - file: 20_BasicLA/hw04      
+  - file: 20_BasicLA/basicLA_2_chheader
+    sections:
+    - file: 20_BasicLA/basicLA_2A_vectorspaces
+    - file: 20_BasicLA/hw05
+    - file: 20_BasicLA/numpy_cheatsheet    
