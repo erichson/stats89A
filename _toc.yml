@@ -44,3 +44,10 @@
     - file: 20_BasicLA/basicLA_2A_vectorspaces
     - file: 20_BasicLA/hw05
     - file: 20_BasicLA/numpy_cheatsheet    
+  - file: 20_BasicLA/basicLA_3_chheader
+    sections:
+    - file: 20_BasicLA/basicLA_3_linear_examples
+    - file: 20_BasicLA/basicLA_3_matrices_and_linear_functions
+    - file: 20_BasicLA/hw06    
+    
+    
