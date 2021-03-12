@@ -49,5 +49,7 @@
     - file: 20_BasicLA/basicLA_3_linear_examples
     - file: 20_BasicLA/basicLA_3_matrices_and_linear_functions
     - file: 20_BasicLA/hw06    
-    
+    - file: 20_BasicLA/basicLA_3_inverses
+    - file: 20_BasicLA/basicLA_3_changing_basis
+    - file: 20_BasicLA/hw07    
     
