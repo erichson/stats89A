@@ -53,5 +53,11 @@
     - file: 20_BasicLA/basicLA_3_changing_basis
     - file: 20_BasicLA/hw07
     - file: 20_BasicLA/basicLA_3_deconstructing
-    - file: 20_BasicLA/hw08        
+    - file: 20_BasicLA/hw08     
+  - file: 20_BasicLA/basicLA_4_chheader
+    sections:
+    - file: 20_BasicLA/basicLA_4_dot-products-and-angles
+    - file: 20_BasicLA/basicLA_4_QR
+    - file: 20_BasicLA/basicLA_4_projections
+    - file: 20_BasicLA/hw09       
     
