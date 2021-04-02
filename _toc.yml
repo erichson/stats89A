@@ -53,6 +53,7 @@
     - file: 20_BasicLA/basicLA_3_changing_basis
     - file: 20_BasicLA/hw07
     - file: 20_BasicLA/basicLA_3_deconstructing
+    - file: 20_BasicLA/basicLA_3_powers_of_matrices
     - file: 20_BasicLA/hw08     
   - file: 20_BasicLA/basicLA_4_chheader
     sections:
