@@ -61,4 +61,11 @@
     - file: 20_BasicLA/basicLA_4_QR
     - file: 20_BasicLA/basicLA_4_projections
     - file: 20_BasicLA/hw09       
-    
+ 
+- part: Basic Probability for LA
+  chapters:
+  - file: 30_BasicProb/chheader_discreteProb
+    sections:
+    - file: 30_BasicProb/prob1A_coin_flipping
+    - file: 30_BasicProb/prob4A_dist_highdim
+    - file: 30_BasicProb/hw10  
