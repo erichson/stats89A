@@ -69,3 +69,12 @@
     - file: 30_BasicProb/prob1A_coin_flipping
     - file: 30_BasicProb/prob4A_dist_highdim
     - file: 30_BasicProb/hw10  
+    - file: 30_BasicProb/prob4D_classification_LowDim
+    - file: 30_BasicProb/prob4E_classification_HighDim       
+        
+- part: Advanced LA, Spectral Theorem
+  chapters:
+  - file: 40_SpectralThm/chheader_eigenstuff
+    sections:
+    - file: 40_SpectralThm/SpectralThm_1_quadratic-forms
+    - file: 40_SpectralThm/hw11    
