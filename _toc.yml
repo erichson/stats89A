@@ -78,3 +78,5 @@
     sections:
     - file: 40_SpectralThm/SpectralThm_1_quadratic-forms
     - file: 40_SpectralThm/hw11    
+    - file: 40_SpectralThm/SpectralThm_1_eigenthings
+    - file: 40_SpectralThm/hw12    
