@@ -60,7 +60,8 @@
     - file: 20_BasicLA/basicLA_4_dot-products-and-angles
     - file: 20_BasicLA/basicLA_4_QR
     - file: 20_BasicLA/basicLA_4_projections
-    - file: 20_BasicLA/hw09       
+    - file: 20_BasicLA/hw09
+    - file: 20_BasicLA/basicLA_4_inverses-revisited       
  
 - part: Basic Probability for LA
   chapters:

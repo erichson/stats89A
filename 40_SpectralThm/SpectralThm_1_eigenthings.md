@@ -111,7 +111,7 @@ Let's see how this matrix acts on unit vectors $x$.
 import numpy as np
 import matplotlib.pyplot as plt
 
-A = np.array([[2,1],[1,1]])
+A = np.array([[2,1],[1,2]])
 
 theta_range = np.arange(0,2*np.pi+.01,.01) 
 unit_x = np.array([[np.cos(theta), np.sin(theta)] for theta in theta_range]).T #parameterize the unit circle
