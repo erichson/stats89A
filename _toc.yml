@@ -81,3 +81,11 @@
     - file: 40_SpectralThm/hw11    
     - file: 40_SpectralThm/SpectralThm_1_eigenthings
     - file: 40_SpectralThm/hw12    
+    - file: 40_SpectralThm/SpectralThm_1_SVD
+    - file: 40_SpectralThm/hw13
+    
+- part: PCA and LS
+  chapters:
+  - file: 50_Applications/chheader_pca
+    sections:
+    - file: 50_Applications/PCA    
