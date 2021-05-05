@@ -88,4 +88,6 @@
   chapters:
   - file: 50_Applications/chheader_pca
     sections:
-    - file: 50_Applications/PCA    
+    - file: 50_Applications/PCA   
+    - file: 50_Applications/LS
+    - file: 50_Applications/hw14_extra_credit
